@@ -17,7 +17,7 @@ Please email us with any questions or concerns!
 
 | Day  | Date | Topic | Links | Homework |
 | ------------- | ------------- |------------- |------------- |------------- |
-| 0 | Before 07/12/2021  | Setup: "Shall we Begin?"  | [Day_0](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_0_Setup) | [Generate Keys](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_0_Setup/Generate_Keys)<br />[Installations](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_0_Setup/Installations)| 
+| 0 | Before 07/12/2021  | **Setup**: "Shall we Begin?"  | [Day_0](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_0_Setup) | [Generate Keys](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_0_Setup/Generate_Keys)<br />[Installations](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_0_Setup/Installations)| 
 | 1  | 07/12/2021  | **Module 1**: Unix, TSCC, Installations  | [Day_1](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_1)  | Read [Hangauer et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5933935/)| 
 | 2  | 07/13/2021  | **Module 2**: RNA Alignment (STAR, fastqc)  | [Day_2](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_2)   | | 
 | 3  | 07/14/2021  | **Module 3**: RNA Quantification (featureCounts, samtools, IGV)  | [Day_3]()  | |

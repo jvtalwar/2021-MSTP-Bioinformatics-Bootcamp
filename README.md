@@ -1,12 +1,13 @@
 # 2021 MSTP Bioinformatics Bootcamp
-Course website for 2021 MSTP Bioinformatics Bootcamp.<br />
+Welcome to the course website for 2021 MSTP Bioinformatics Bootcamp!<br />
+
 ![HomeImage](https://imgs.xkcd.com/comics/dna.png)
 
 ## Course Information
 
 **When**: July 12-16 8AM-12PM PST
 
-**Where**: Zoom (Course link coming soon!)
+**Where**: Zoom - https://ucsd.zoom.us/j/94753444258?pwd=RHhoUUZ0K2YzSVIzeVA0RVl6RjNaQT09
 
 **Instructor**: Hannah Carter (hkcarter@health.ucsd.edu)
 

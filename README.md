@@ -36,8 +36,8 @@ Please email us with any questions or concerns!
 
 ### Recommended UCSD Courses:
 **BIOM262 Quantitative Methods/Genetics** - Several notebooks were taken/adapted from this course and I recommend it if you want an introduction to bioinformatics methods<br>
-**CSE284 Personal Genomics/Bioinformatics** - This is an invaluable course (focusing on personal genomics) that blends theory and application seamlessly. Information from this course also made its way into bootcamp.  
-**CSE258 Recommender Systems & Web Mining**<br> - This course is focused on machine learning applications (primarily in Python), while also providing some introductory theory.
+**CSE284 Personal Genomics/Bioinformatics** - This is an invaluable course (focusing on personal genomics) that blends theory and application seamlessly. Information from this course also made its way into bootcamp. <br>
+**CSE258 Recommender Systems & Web Mining** - This course is focused on machine learning applications (primarily in Python), while also providing some introductory theory.<br>
 **BNFO286 Network Biology & Biomedicine**<br>
 **MED278 Cancer Genomics Journal Club**<br>
 

@@ -11,7 +11,8 @@ Intro to Python/R<br>
 
 
 ## Slides for Day 3:
-Coming Soon!
+
+Slides for Day 3 can be found here: https://docs.google.com/presentation/d/19q5XVoLSVaIuPaFn3OTp2HXCaQ3lgIQsQ01bSBQciXI/edit?usp=sharing
 
 If you run into any issues or have any questions/concerns feel free to shoot me an email: jtalwar@eng.ucsd.edu
 

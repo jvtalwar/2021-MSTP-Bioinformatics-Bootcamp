@@ -10,6 +10,6 @@ Pathway Enrichment Analysis<br>
 
 ## Slides for Day 4:
 
-Coming Soon!
+Slides for Day 4 can be found here: https://docs.google.com/presentation/d/1IG8ncUFUTniEq5WwuqWYhgeqjEehKfQ2lK8cKWwKxdw/edit?usp=sharing
 
 If you run into any issues or have any questions/concerns feel free to shoot me an email: jtalwar@eng.ucsd.edu

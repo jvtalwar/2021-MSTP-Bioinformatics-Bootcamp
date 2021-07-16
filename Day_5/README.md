@@ -8,8 +8,8 @@ Introduction to GenePattern Resources<br>
 
 ## Slides for Day 5:
 
-Overview Slides for Day 5 can be found here: https://drive.google.com/file/d/1Mg0XU4wShvhEkQgK59MtNPUrupJcG2ee/view?usp=sharing<br>
-Class Project Slides for Day 5 can be found here: https://drive.google.com/file/d/17j4x116L0f_fvSZ_uOy-jFMcwBDor3cM/view?usp=sharing<br>
+**Overview slides** for Day 5 can be found here: https://drive.google.com/file/d/1Mg0XU4wShvhEkQgK59MtNPUrupJcG2ee/view?usp=sharing<br>
+**Class project slides** for Day 5 can be found here: https://drive.google.com/file/d/17j4x116L0f_fvSZ_uOy-jFMcwBDor3cM/view?usp=sharing<br>
 
 **GenePattern Help**: https://genepattern.org/help<br>
 **GenePattern Mailing List**: https://www.genepattern.org/contact<br>
